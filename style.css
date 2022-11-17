@@ -1,0 +1,168 @@
+body{
+    margin: 0;
+    background-color:gainsboro;
+    font-family: 'Inter';
+}
+
+.paper{
+    margin: 50px auto;
+    width: 600px;
+    height: 850px;
+    background-color: #fff;
+    display: flex;
+}
+
+.left-col{
+    width: 33%;
+    height: 100%;
+    color: #fff;
+    background-color: #497174;
+    position: relative;
+   
+
+}
+
+.right-col{
+    width: 67%;
+    height: 100%;
+    color: #497174;
+    background-color: #ffff;
+    position: relative;
+
+}
+
+img{
+    width: 100%;
+    position: absolute;
+    top:22px;
+    left:22px
+}
+
+.left-content{
+    position: absolute;
+    top:200px;
+    left: 22px;
+}
+
+.left-header2{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.left-header3{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.contact{
+    font-family: Inter;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 13px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.skills{
+    font-family: Inter;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.right-content{
+    position: absolute;
+    left: 20px;
+    right: 20px;
+}
+
+.name{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.occupation{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 300;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.brief{
+    font-family: Inter;
+font-size: 12px;
+font-weight: 400;
+line-height: 13px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.right-section{
+    height: 23px;
+    width: 100%;
+    border-radius: 0px;
+    background-color: #497174;
+    color: #fff;
+
+}
+
+.right-section h2{
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;    
+    padding-left:10px ;
+}
+
+.experience h3{
+    font-family: Inter;
+font-size: 10px;
+font-weight: 700;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.experience p{
+    font-family: Inter;
+    font-size: 11px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 13px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.experience ul{
+    font-family: Inter;
+font-size: 11px;
+font-weight: 400;
+line-height: 13px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
